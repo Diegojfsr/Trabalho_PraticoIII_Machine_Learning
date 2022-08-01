@@ -1,9 +1,6 @@
-# Trabalho_PraticoIII_Machine_Learning
-Repositorio criado para documentar meu projeto pratico desenvolvido durante o III periodo de formação do Curso de GTI na disciplina de Machine Learning do IF Sudeste MG
-
 
 <h1> Sejam bem-vindos!!! </h1>
-<h2> Esse é o meu Trabalho Prático II -  Machine Learning. </h2>
+<h2> Esse é o meu Trabalho Prático III -  Machine Learning. </h2>
 
 <h4> Repositorio criado para documentar meu projeto pratico desenvolvido durante o III periodo de formação do Curso de GTI
  na disciplina de Machine Learning do IF Sudeste MG </h4>
